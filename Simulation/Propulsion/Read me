@@ -1,0 +1,10 @@
+Notebooks, simulating the propulsion mechanism of the symmetric particles belong here.
+
+Single trajectory - is a notebook which creates a single trajectory of a symmetric swimmer which is propelled to the right. 
+  All parameters like the frame rate dt, delay, velocity, offset... and so on can be changed.
+  It analysis the motion.
+  
+Multiple trajectories - creates multiple trajectories, at the moment the offset is changed for every trajectory
+  saves the important parameters as a txt-file
+  
+Compare multiple trajectories - loads the txt-file and compares the parameters 
